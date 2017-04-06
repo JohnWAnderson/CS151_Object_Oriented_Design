@@ -1,0 +1,7 @@
+New Card : Bank A,  CardID# 1234, expires on 12/01/2016, Account Password: myPassword
+New Card : Bank A,  CardID# 123, expires on 23/02/2014, Account Password: extrasafe
+New Card : Bank A,  CardID# 12345, expires on 13/12/2020, Account Password: qwert
+New Card : Bank B,  CardID# 12, expires on 21/04/2000, Account Password: password1234
+New Card : Bank B,  CardID# 321, expires on 12/02/2019, Account Password: SafeCard
+New Card : Bank B,  CardID# 21, expires on 17/07/2018, Account Password: word
+-------------------------------------------------------------------------------------
